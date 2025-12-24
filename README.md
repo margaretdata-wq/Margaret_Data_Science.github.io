@@ -1,7 +1,7 @@
 # Margaret_Data_Science.github.io
 ##Projects
 
-###ADHD Medication Use, June 2025 – Dec 2025
+###ADHD Medication Use, June 2025 – Dec 2025 
 -Descripton
 Research Intern (Unpaid) - Boston University Medical School
 
