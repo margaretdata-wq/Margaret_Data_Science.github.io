@@ -1,5 +1,5 @@
 # Margaret_Data_Science.github.io
-## Projects
+## Projects 
 
 ### ADHD Medication Use, June 2025 – Dec 2025 
 
