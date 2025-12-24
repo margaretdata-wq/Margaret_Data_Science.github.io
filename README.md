@@ -1,8 +1,8 @@
 # Margaret_Data_Science.github.io
-##Projects
+## Projects
 
-###ADHD Medication Use, June 2025 – Dec 2025 
--Descripton
+### ADHD Medication Use, June 2025 – Dec 2025 
+
 Research Intern (Unpaid) - Boston University Medical School
 
 ●      This project analyzed ADHD medication data in the US before and after COVID-19. We developed a machine-learning model to forecast consumption absent the pandemic. Comparison with observed data showed the pandemic caused only temporary disruption.
@@ -13,8 +13,8 @@ Research Intern (Unpaid) - Boston University Medical School
 
 -Link 
 
-###IoMT Cybersecurity, June 2025- Aug 2025
--Descripton
+### IoMT Cybersecurity, June 2025- Aug 2025
+
 Research Intern (Paid) - University System of New Hampshire, Medical Cybersecurity Lab
 
 ●      This project aimed to detect reconnaissance attacks on Internet Medical Things (IoMT) networks. We built a logistic regression model to identify abnormal network behavior and developed a mobile app to visualize real-time traffic data.
@@ -23,8 +23,8 @@ Research Intern (Paid) - University System of New Hampshire, Medical Cybersecuri
 
 -Link
 
-###History of Women in Finance, Oct 2024 – Dec 2024 
--Descripton
+### History of Women in Finance, Oct 2024 – Dec 2024 
+
 Selected Independent Study Student - Weston High School Independent Research Committee
 
 ●      This project examined women’s underrepresentation in finance and related historical factors. I created a StoryMap webpage using Geographic Information Systems (ArcGIS) to map women pioneers and historical turning points.
@@ -33,8 +33,8 @@ Selected Independent Study Student - Weston High School Independent Research Com
 
 -Link 
 
-###SAT Score Disparities, July 2023 – Sep 2023
--Descripton
+### SAT Score Disparities, July 2023 – Sep 2023
+
 Research Student Volunteer – Wharton Data Science Academy & University System of New Hampshire
 
 ●      This project investigated correlations between SAT performance and socioeconomic factors. Using school-level SAT data on Kaggle.com and statistical methods, we found socioeconomic disadvantage to be the strongest predictor of lower scores.
