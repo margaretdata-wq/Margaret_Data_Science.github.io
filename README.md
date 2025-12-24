@@ -3,7 +3,7 @@
 
 ### ADHD Medication Use, June 2025 – Dec 2025 
 
-Research Intern (Unpaid) - Boston University Medical School
+Research Intern - Boston University Medical School
 
 ●      This project analyzed ADHD medication data in the US before and after COVID-19. We developed a machine-learning model to forecast consumption absent the pandemic. Comparison with observed data showed the pandemic caused only temporary disruption.
 
@@ -15,7 +15,7 @@ Research Intern (Unpaid) - Boston University Medical School
 
 ### IoMT Cybersecurity, June 2025- Aug 2025
 
-Research Intern (Paid) - University System of New Hampshire, Medical Cybersecurity Lab
+Research Intern - University System of New Hampshire, Medical Cybersecurity Lab
 
 ●      This project aimed to detect reconnaissance attacks on Internet Medical Things (IoMT) networks. We built a logistic regression model to identify abnormal network behavior and developed a mobile app to visualize real-time traffic data.
 
