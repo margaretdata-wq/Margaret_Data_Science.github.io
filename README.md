@@ -31,7 +31,7 @@ Selected Independent Study Student - Weston High School Independent Research Com
 
 ●      Publication: Liu, Margaret. History of Women in Finance. Arcgis. 5 Jan 2025
 
--Link 
+[History of Women in Finance](https://storymaps.arcgis.com/stories/682f2721d16148da8076cd9b78f36539)
 
 ### SAT Score Disparities, July 2023 – Sep 2023
 
