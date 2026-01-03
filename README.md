@@ -21,7 +21,7 @@ Research Intern - University System of New Hampshire, Medical Cybersecurity Lab
 
 ●      Publication: S. Lloyd, M. Liu, W. Lu, “Lightweight Detection of Reconnaissance Attacks in IoMT Networks with Mobile Visualization Support,” in Proceedings of 2025 IEEE MIT Undergraduate Research Technology Conference (URTC) (in Press)
 
--Link
+[-Link](https://github.com/margaretdata-wq/Medical_Cybersecurity)
 
 ### History of Women in Finance, Oct 2024 – Dec 2024 
 
