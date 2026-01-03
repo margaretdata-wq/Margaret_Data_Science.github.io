@@ -43,4 +43,4 @@ Research Student Volunteer – Wharton Data Science Academy & University System 
 
 ●      Oral Presentation: 2024 IEEE Integrated STEM Education Conference (ISEC), Princeton University, Mar 2024
 
-[-lINK](https://github.com/margaretdata-wq/SAT_Score_Disparities)
+[-Link](https://github.com/margaretdata-wq/SAT_Score_Disparities)
