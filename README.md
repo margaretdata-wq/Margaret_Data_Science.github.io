@@ -23,17 +23,7 @@ Research Intern - University System of New Hampshire, Medical Cybersecurity Lab
 
 [-Link](https://github.com/margaretdata-wq/Medical_Cybersecurity)
 
-### History of Women in Finance, Oct 2024 – Dec 2024 
-
-Selected Independent Study Student - Weston High School Independent Research Committee
-
-●      This project examined women’s underrepresentation in finance and related historical factors. I created a StoryMap webpage using Geographic Information Systems (ArcGIS) to map women pioneers and historical turning points.
-
-●      Publication: Liu, Margaret. History of Women in Finance. Arcgis. 5 Jan 2025
-
-[History of Women in Finance](https://storymaps.arcgis.com/stories/682f2721d16148da8076cd9b78f36539)
-
-### SAT Score Disparities, July 2023 – Sep 2023
+### SAT Score Disparities, July 2023 – Dec 2025
 
 Research Student Volunteer – Wharton Data Science Academy & University System of New Hampshire
 
@@ -44,3 +34,14 @@ Research Student Volunteer – Wharton Data Science Academy & University System 
 ●      Oral Presentation: 2024 IEEE Integrated STEM Education Conference (ISEC), Princeton University, Mar 2024
 
 [-Link](https://github.com/margaretdata-wq/SAT_Score_Disparities)
+
+### History of Women in Finance, Oct 2024 – Dec 2024 
+
+Selected Independent Study Student - Weston High School Independent Research Committee
+
+●      This project examined women’s underrepresentation in finance and related historical factors. I created a StoryMap webpage using Geographic Information Systems (ArcGIS) to map women pioneers and historical turning points.
+
+●      Publication: Liu, Margaret. History of Women in Finance. Arcgis. 5 Jan 2025
+
+[History of Women in Finance](https://storymaps.arcgis.com/stories/682f2721d16148da8076cd9b78f36539)
+
