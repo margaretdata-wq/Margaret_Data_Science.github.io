@@ -43,4 +43,4 @@ Research Student Volunteer – Wharton Data Science Academy & University System 
 
 ●      Oral Presentation: 2024 IEEE Integrated STEM Education Conference (ISEC), Princeton University, Mar 2024
 
-[Decoding SAT Scores](https://www.proceedings.com/content/076/076250webtoc.pdf)
+[-lINK](https://github.com/margaretdata-wq/SAT_Score_Disparities)
