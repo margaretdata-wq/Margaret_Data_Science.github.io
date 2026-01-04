@@ -45,3 +45,6 @@ Selected Independent Study Student - Weston High School Independent Research Com
 
 [History of Women in Finance](https://storymaps.arcgis.com/stories/682f2721d16148da8076cd9b78f36539)
 
+### Quantitative Models in Wharton Investment Competition 
+
+[Link](https://github.com/margaretdata-wq/Quantitative_Models_in_Wharton_Investment_Competition)
